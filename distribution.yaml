@@ -1,0 +1,14 @@
+name: hermesbro-wannabe
+version: 1.0.0
+description: "Content creator e social media manager AI. Crea post, thread, campagne marketing per brand."
+hermes_requires: ">=0.16.0"
+author: "HermesBro"
+license: "MIT"
+
+env_requires:
+  - name: TELEGRAM_BOT_TOKEN
+    description: "Telegram bot token (da @BotFather)"
+    required: true
+  - name: DEEPSEEK_API_KEY
+    description: "DeepSeek API key per LLM"
+    required: true
