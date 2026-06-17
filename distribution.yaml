@@ -1,5 +1,5 @@
 name: hermesbro-wannabe
-version: 1.0.0
+version: 1.0.1
 description: "Content creator e social media manager AI. Crea post, thread, campagne marketing per brand."
 hermes_requires: ">=0.16.0"
 author: "HermesBro"
