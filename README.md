@@ -1,4 +1,6 @@
 # Wannabe Lab — R&D Incubator
+[![Beta](https://img.shields.io/badge/HermesBro-beta-8b9cb3?style=flat-square&logo=github)]()
+
 
 **L'incubatore R&D della flotta HermesBro.** Wannabe Lab testa skill, logga esperimenti, propone feature e promuove in produzione solo dopo review del Supervisor.
 
